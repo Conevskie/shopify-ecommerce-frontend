@@ -100,6 +100,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## How to Contribute:
 
-We welcome contributions from the community to enhance and improve our e-commerce platform. Please refer to the [Contribution Guidelines](link/to/contribution/guidelines) for more information on how you can get involved.
-
-Thank you for exploring our e-commerce platform. We hope you enjoy the shopping experience!
+We welcome contributions from the community to enhance and improve our e-commerce platform. Thank you for exploring our e-commerce platform. We hope you enjoy the shopping experience!
